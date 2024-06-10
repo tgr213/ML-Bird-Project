@@ -1,1 +1,3 @@
 CNN_not_pretrained/vanilla-version/CNN_not_pretrained_vanilla.keras
+CNN_not_pretrained/bayesian-optimization/CNN_not_pretrained_bayesian_80.keras
+CNN_not_pretrained/bayesian-optimization/CNN_not_pretrained_bayesian.keras
